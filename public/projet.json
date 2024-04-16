@@ -1,0 +1,21 @@
+[ 
+    {
+        "id":"1",
+        "title":"magasin informatique", 
+        "description":"meilleur magasin",
+        "image":"fleur.jpeg"
+    },
+    {
+        "id":"2",
+        "title":"magasin fleur", 
+        "description":"meilleur magasin",
+        "image":"fleur.jpeg"
+    },
+    {
+        "id":"3",
+        "title":"magasin tv", 
+        "description":"meilleur magasin",
+        "image":"fleur.jpeg"
+    }
+    
+]
